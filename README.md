@@ -13,7 +13,6 @@
 
 ---
 
-### 🛠️ Tools I know
 
 ### 🛠️ Tools I know
 
