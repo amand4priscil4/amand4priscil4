@@ -41,10 +41,6 @@
   <img src="https://streak-stats.demolab.com?user=amand4priscil4&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amand4priscil4&theme=radical" alt="GitHub Trophies"/>
-</p>
-
 
 ---
 
