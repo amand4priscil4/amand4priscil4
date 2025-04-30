@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Me chamo <strong>SeuNome</strong>, tenho XX anos e moro em <strong>SuaCidade/Estado</strong> 🌎<br>
+  Me chamo <strong>Amanda Alves</strong>, tenho 30 anos e moro em <strong>Recife/PE</strong> 🌎<br>
   💻 Desenvolvedora de software em formação<br>
   🌱 Estudando novas ferramentas e linguagens<br>
   💬 Sempre disposta a colaborar em projetos e aprender!
@@ -15,12 +15,17 @@
 
 ### 🛠️ Tools I know
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+### 🛠️ Tools I know
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+</p>
+
 
 ---
 
