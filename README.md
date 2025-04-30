@@ -30,19 +30,28 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amand4priscil4&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amand4priscil4&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amand4priscil4&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amand4priscil4&theme=radical" alt="GitHub Trophies"/>
+</p>
+
 
 ---
 
 ### 📫 Entre em contato comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SeuPerfil)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-alves-a29040279/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:amanda.priscilaa10@gmail.com)
 
 ---
-
-⚠️ *Personalize este README com suas informações reais e atualize os links/imagens conforme necessário.*
 
