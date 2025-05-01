@@ -43,7 +43,7 @@
 
 ---
 
-### 📫 Entre em contato comigo
+### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-alves-a29040279/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:amanda.priscilaa10@gmail.com)
