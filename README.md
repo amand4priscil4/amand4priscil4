@@ -1,4 +1,4 @@
-<h1 align="center">Oiieee, seja bem vindo(a) 👋</h1>
+<h1 align="center">Olá, seja bem vindo(a)! 👋</h1>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNtMHo5dzJkb29lbWhrNGx1ZDkyOWhlYW1xYnR5a291eXk2YjFuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif" width="250"/>
