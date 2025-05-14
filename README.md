@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  Me chamo <strong>Amanda Alves</strong>, tenho 30 anos e moro em <strong>Recife/PE</strong> 🌎<br>
-  💻 Desenvolvedora de software em formação<br>
-  🌱 Estudando novas ferramentas e linguagens<br>
-  💬 Sempre disposta a colaborar em projetos e aprender!
+  Me chamo <strong>Amanda Alves</strong>, tenho 30 anos e moro em <strong>Recife/PE</strong> <br>
+  Desenvolvedora de software em formação<br>
+  Estudando novas ferramentas e linguagens<br>
+  Sempre disposta a colaborar em projetos e aprender!
 </p>
 
 ---
